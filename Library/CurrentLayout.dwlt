@@ -393,14 +393,14 @@ MonoBehaviour:
     height: 305
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1656.2171675999998
+  lastFramingTime: 89.44818049999999
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.011949774, y: -0.37105066, z: -0.170165}
+    m_Target: {x: 0, y: 0, z: 1.5999999}
     speed: 2
-    m_Value: {x: 0.011949774, y: -0.37105066, z: -0.170165}
+    m_Value: {x: 0, y: 0, z: 1.5999999}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -428,9 +428,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.11550492, y: 0.8790513, z: -0.27077648, w: -0.37497663}
   m_Size:
-    m_Target: 10
+    m_Target: 6.4578853
     speed: 2
-    m_Value: 10
+    m_Value: 6.4578853
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -632,18 +632,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\laura\pgit\GitGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 82270000
-    m_LastClickedID: 10114
+    m_SelectedIDs: 64280000
+    m_LastClickedID: 10340
     m_ExpandedIDs: 000000008227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
